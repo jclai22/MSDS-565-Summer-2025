@@ -1,9 +1,8 @@
 # Predictive Modeling and Analytics (MSDS 565)
 *Meharry Medical College, School of Applied Computational Sciences, Department of Computer Science and Data Science*
 
-**Instructor:** Dr. Graham West  
-**Email:** gwest791@mmc.edu  
-**Term:** Spring 2025
+**Instructor:** Dr. Graham West
+**Email:** gwest791@mmc.edu
 
 ## Course Overview
 This course provides a comprehensive introduction to advanced data analysis and machine learning techniques, emphasizing practical skills and real-world applications. Students will gain experience in programming skills that are fundamental to AI/ML, including Github and Conda. Students will be introduced to CRISP-DM, the CRoss-Industry Standard Process for Data Mining. Various types of data including tabular, text, time series, and image data will be explored, as well as specialilzed models designed for each using software packages like Sklearn and Tensorflow/Keras.
